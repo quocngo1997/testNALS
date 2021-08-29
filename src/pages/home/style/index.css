@@ -1,0 +1,22 @@
+.media {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+.media-body {
+    -ms-flex: 1;
+    flex: 1;
+    margin-left: 0.5rem;
+}
+.btn-sort {
+    margin-right: 0.2rem;
+}
+.title {
+    display: block;
+    text-decoration: none;
+    color: #212529;
+    font-size: 1.25rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
